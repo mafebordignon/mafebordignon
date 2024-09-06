@@ -1,6 +1,6 @@
 ## Olá! Sou a Maria Fernanda Bordignon
 
-- 💼 Atualmente, trabalho como Gerente Operacional em uma transportadora.
+- 💼 Atualmente, sou estagiaria de engenharia de qualidade..
 - 🎓 Estudante do 4º período de ADS no Biopark Educação.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 Procuro ganhar experiência na área de programção.
