@@ -1,9 +1,8 @@
 ## Olá! Sou a Maria Fernanda Bordignon
 
-- 💼 Atualmente, sou estagiaria de engenharia de qualidade..
-- 🎓 Estudante do 4º período de ADS no Biopark Educação.
+- 💼 Gerente de Projetos na Vision Tecnologia.
+- 🎓 Estudante do 5º período de Análise e Desenvolvimento de Sistemas no Biopark Educação.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Procuro ganhar experiência na área de programção.
 
 ## Skills
 
@@ -30,7 +29,7 @@
    <a href="https://www.linkedin.com/in/mafebordignon/">
       <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="mailto:mariafernandabordignon@homtail.com">
+  <a href="mailto:mariafernandabordignon@hotmail.com">
     <img width="25px" src="https://img.icons8.com/?size=100&id=eKlyMs0XteXZ&format=png&color=000000" alt="Ícone de e-mail" />
   </a>
   
